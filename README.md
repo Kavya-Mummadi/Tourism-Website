@@ -1,6 +1,6 @@
 # 🗺️ Tourism Website
 
-## **Project Overview**
+## 🎯 **Project Overview**
 
 This is a **static tourism website project** that highlights famous tourist places in India.  
 The website provides an **interactive experience using only HTML, CSS, Bootstrap, and JavaScript**, without any backend services.
@@ -9,28 +9,28 @@ All content is **static**, and the navigation between sections is handled throug
 
 ---
 
-## **Features**
+## ✨ **Features**
 
-- **Home Section:**  
+- 🏠 **Home Section:**  
   - Welcoming message and a "Get Started" button.
   
-- **Favourite Places Section:**  
+- 📌 **Favourite Places Section:**  
   - Showcases 4 major tourist spots:
     - Taj Mahal
     - Golden Temple
     - Mysore Palace
     - Varanasi Temple
   
-- **Detailed View Sections:**  
+- 🖼️ **Detailed View Sections:**  
   - Each place includes:
     - **Image Carousels** using Bootstrap
     - **Detailed Descriptions**
     - **Nearby Attractions List** (for Golden Temple)
   
-- **Video Sections:**  
+- 🎥 **Video Sections:**  
   - Embedded **YouTube videos** for virtual tours of each destination.
   
-- **Navigation:**  
+- 🔁 **Navigation:**  
   - Uses `display()` function to switch between sections without page reloads.
 
 ---
@@ -45,8 +45,17 @@ All content is **static**, and the navigation between sections is handled throug
 | **JavaScript** | Handling navigation between sections |
 
 ---
+## 📂 Folder Structure
 
-## **How to Run**
+```bash
+Tourism Website/
+  |-- tourism.html
+  |-- tourism.css
+  |-- vercel.json
+  |-- README.md
+```
+
+## 💡 **How to Run**
 
 1. **Download or Clone** the repository  
 2. Open `tourism.html` directly in your browser  
@@ -58,7 +67,7 @@ All content is **static**, and the navigation between sections is handled throug
 
 This static website is successfully deployed on **Vercel** for fast, reliable access across devices.
 
-🔗 **Live Demo:** [https://your-project-name.vercel.app](https://your-project-name.vercel.app)
+🔗 **Live Demo:** [https://static-tourism-website.vercel.app/]
 
 ---
 
